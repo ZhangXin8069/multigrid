@@ -1,0 +1,8 @@
+Multigrid solvers are the standard in modern scientific computing simulations. Domain Decomposition Aggregation-Based Algebraic Multigrid, also known as the DD-$\alpha$AMG solver, is a successful realization of an algebraic multigrid solver for lattice quantum chromodynamics simulations. Its CPU implementation has made it possible to construct simulations with some of their lattice parameters at their physical values on some particular discretizations, and furthermore it has motivated the development and improvement of other algebraic multigrid solvers in the area. From an existing version of DD-$\alpha$AMG partially ported via \texttt{CUDA} to run some finest-level operations of the multigrid solver on Nvidia GPUs, we further port the code here by using \texttt{HIP} to run on the ORISE supercomputer. We moreover extend the \texttt{CUDA} code, allowing us to compare four types of smoothers on the GPU-like cards on ORISE, namely SAP, GMRES, GCR and the Richardson iteration. We then compare DD-$\alpha$AMG against another multigrid code and finally, with the coarse grid running on CPUs, we extend some computationallly intensive coarse-grid operations via vectorization and reduced precision storage.
+%This template helps you to create a properly formatted \LaTeX\ manuscript.
+%\noindent\texttt{\textbackslash begin{abstract}} \dots
+%\texttt{\textbackslash end{abstract}} and
+%\verb+\begin{keyword}+ \verb+...+ \verb+\end{keyword}+
+%which
+%contain the abstract and keywords respectively.
+%\noindent Each keyword shall be separated by a \verb+\sep+ command.

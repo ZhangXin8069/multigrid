@@ -1,0 +1,2355 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.28)  16 JUL 2024 14:22
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex
+(/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21> (./siamltex.cls
+Document Class: siamltex 1996/10/11 v1.2 LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/leqno.clo
+File: leqno.clo 2016/12/29 v1.2b Standard LaTeX option (left equation numbers)
+) (./siam10.clo
+File: siam10.clo 1994/10/01 v1.0 SIAM LaTeX file (size option)
+)
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@rmnum=\count190
+\c@muni=\count191
+\c@theorem=\count192
+
+Warning: Unable to fix unknown version of \eqnarray.
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+ (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box50
+))
+Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
+
+
+/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.sty:43: Critical Package xeCJK Error: The xeCJK package requires XeTeX to function.
+(xeCJK)                         
+(xeCJK)                         You must change your typesetting engine to
+(xeCJK)                         "xelatex"
+(xeCJK)                         instead of plain "latex" or "pdflatex" or
+(xeCJK)                         "lualatex".
+(xeCJK)                         Loading xeCJK will abort!
+
+Type <return> to continue.
+ ...                                              
+                                                  
+l.43 ..._critical:nn { xeCJK } { Require-XeTeX } }
+                                                  
+
+LaTeX does not know anything more about this error, sorry.
+
+Try typing <return> to proceed.
+If that doesn't work, type X <return> to quit.
+
+Reading the current file 'xeCJK' will stop.
+
+
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+ (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks17
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen148
+\Gin@req@width=\dimen149
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen150
+\pgfutil@tempdimb=\dimen151
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks25
+))
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\pgf@xd=\dimen160
+\pgf@yd=\dimen161
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count274
+\c@pgf@countb=\count275
+\c@pgf@countc=\count276
+\c@pgf@countd=\count277
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count278
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count279
+\pgfsyssoftpath@bigbuffer@items=\count280
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count281
+\pgfmath@box=\box54
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count282
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count283
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen181
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen185
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count284
+\pgf@shadingcount=\count285
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box58
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box59
+) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen189
+\pgffor@skip=\dimen190
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count286
+\pgfplotmarksize=\dimen191
+)
+\tikz@lastx=\dimen192
+\tikz@lasty=\dimen193
+\tikz@lastxsaved=\dimen194
+\tikz@lastysaved=\dimen195
+\tikz@lastmovetox=\dimen196
+\tikz@lastmovetoy=\dimen197
+\tikzleveldistance=\dimen198
+\tikzsiblingdistance=\dimen199
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count287
+\tikznumberofchildren=\count288
+\tikznumberofcurrentchild=\count289
+\tikz@fig@count=\count290
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count291
+\pgfmatrixcurrentcolumn=\count292
+\pgf@matrix@numberofcolumns=\count293
+)
+\tikz@expandcount=\count294
+ (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+Package: algorithm2e 2017/07/18 v5.2 algorithms environments
+\c@AlgoLine=\count295
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\algocf@hangindent=\skip52
+ (/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count296
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+) (/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+Package: relsize 2013/03/29 ver 4.1
+)
+\skiptotal=\skip53
+\skiplinenumber=\skip54
+\skiprule=\skip55
+\skiphlne=\skip56
+\skiptext=\skip57
+\skiplength=\skip58
+\algomargin=\skip59
+\skipalgocfslide=\skip60
+\algowidth=\dimen256
+\inoutsize=\dimen257
+\inoutindent=\dimen258
+\interspacetitleruled=\dimen259
+\interspacealgoruled=\dimen260
+\interspacetitleboxruled=\dimen261
+\algocf@ruledwidth=\skip61
+\algocf@inoutbox=\box64
+\algocf@inputbox=\box65
+\AlCapSkip=\skip62
+\AlCapHSkip=\skip63
+\algoskipindent=\skip64
+\algocf@nlbox=\box66
+\algocf@hangingbox=\box67
+\algocf@untilbox=\box68
+\algocf@skipuntil=\skip65
+\algocf@capbox=\box69
+\algocf@lcaptionbox=\skip66
+\algoheightruledefault=\skip67
+\algoheightrule=\skip68
+\algotitleheightruledefault=\skip69
+\algotitleheightrule=\skip70
+\c@algocfline=\count297
+\c@algocfproc=\count298
+\c@algocf=\count299
+\algocf@algoframe=\box70
+\algocf@algobox=\box71
+) (/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip71
+\subfigcapskip=\skip72
+\subfigcaptopadj=\dimen262
+\subfigbottomskip=\skip73
+\subfigcapmargin=\dimen263
+\subfiglabelskip=\skip74
+\c@subfigure=\count300
+\c@lofdepth=\count301
+\c@subtable=\count302
+\c@lotdepth=\count303
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/share/texlive/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip75
+\subfig@bottom=\skip76
+) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen264
+\lightrulewidth=\dimen265
+\cmidrulewidth=\dimen266
+\belowrulesep=\dimen267
+\belowbottomsep=\dimen268
+\aboverulesep=\dimen269
+\abovetopsep=\dimen270
+\cmidrulesep=\dimen271
+\cmidrulekern=\dimen272
+\defaultaddspace=\dimen273
+\@cmidla=\count304
+\@cmidlb=\count305
+\@aboverulesep=\dimen274
+\@belowrulesep=\dimen275
+\@thisruleclass=\count306
+\@lastruleclass=\count307
+\@thisrulewidth=\dimen276
+) (/usr/share/texlive/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip77
+\multirow@cntb=\count308
+\multirow@dima=\skip78
+\bigstrutjot=\dimen277
+)
+\c@confcounter=\count309
+ (./aAMG4QCD.aux)
+\openout1 = `aAMG4QCD.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count310
+\scratchdimen=\dimen278
+\scratchbox=\box72
+\nofMPsegments=\count311
+\nofMParguments=\count312
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count313
+\MPscratchDim=\dimen279
+\MPnumerator=\count314
+\makeMPintoPDFobject=\count315
+\everyMPtoPDFconversion=\toks35
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "8E.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ȇ (U+0207)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "8A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ɀ (U+0240)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "82.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "94.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ȁ (U+0201)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "88.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ǚ (U+01DA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ƀ (U+0180)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ǂ (U+01C2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "99.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "81.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "94.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ɀ (U+0240)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "8A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ǋ (U+01CB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "84.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character Ƌ (U+018B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "89.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "8B.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "97.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "90.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "9F.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "86.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ȇ (U+0207)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "83.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "9A.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ɇ (U+0247)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "8D.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ǽ (U+01FD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "91.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Unicode character ƀ (U+0180)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:49: LaTeX Error: Invalid UTF-8 byte "9C.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \maketitle
+               
+The document does not appear to be in UTF-8 encoding.
+Try adding \UseRawInputEncoding as the first line of the file
+or specify an encoding such as \usepackage [latin1]{inputenc}
+in the document preamble.
+Alternatively, save the file in UTF-8 using your editor or another tool
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+ (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 49.
+ (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for OMS+cmtt on input line 49.
+LaTeX Font Info:    No file OMScmtt.fd. on input line 49.
+
+
+LaTeX Font Warning: Font shape `OMS/cmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 49.
+
+
+Underfull \hbox (badness 7047) in paragraph at lines 49--49
+[][]\OT1/cmr/m/n/8 Department of Math-e-mat-ics, Ber-gis-che Uni-ver-sit^^?at Wup-per-tal, 42097 Ger-many, \OMS/cmtt/m/n/8 f
+ []
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 在 (U+5728)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{abstract}在
+                        格点 QCD 计算中，大量的工作都花在求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 格 (U+683C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{abstract}在格
+                           点 QCD 计算中，大量的工作都花在求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 点 (U+70B9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{abstract}在格点
+                               QCD 计算中，大量的工作都花在求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 计 (U+8BA1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{abstract}在格点 QCD 计
+                                      算中，大量的工作都花在求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 算 (U+7B97)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{abstract}在格点 QCD 计算
+                                         中，大量的工作都花在求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 中 (U+4E2D)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{abstract}在格点 QCD 计算中
+                                            ，大量的工作都花在求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character ， (U+FF0C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{abstract}在格点 QCD 计算中，
+                                               大量的工作都花在求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 大 (U+5927)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \begin{abstract}在格点 QCD 计算中，大
+                                                  量的工作都花在求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 量 (U+91CF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...{abstract}在格点 QCD 计算中，大量
+                                                  的工作都花在求解�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 的 (U+7684)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...stract}在格点 QCD 计算中，大量的
+                                                  工作都花在求解离�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 工 (U+5DE5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...act}在格点 QCD 计算中，大量的工
+                                                  作都花在求解离散�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 作 (U+4F5C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...}在格点 QCD 计算中，大量的工作
+                                                  都花在求解离散化�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 都 (U+90FD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�格点 QCD 计算中，大量的工作都
+                                                  花在求解离散化的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 花 (U+82B1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�点 QCD 计算中，大量的工作都花
+                                                  在求解离散化的狄�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 在 (U+5728)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...� QCD 计算中，大量的工作都花在
+                                                  求解离散化的狄拉�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 求 (U+6C42)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...CD 计算中，大量的工作都花在求
+                                                  解离散化的狄拉克�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 解 (U+89E3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...计算中，大量的工作都花在求解
+                                                  离散化的狄拉克方�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 离 (U+79BB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...算中，大量的工作都花在求解离
+                                                  散化的狄拉克方程�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 散 (U+6563)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...中，大量的工作都花在求解离散
+                                                  化的狄拉克方程上�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 化 (U+5316)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...，大量的工作都花在求解离散化
+                                                  的狄拉克方程上。�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 的 (U+7684)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...大量的工作都花在求解离散化的
+                                                  狄拉克方程上。传�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 狄 (U+72C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...量的工作都花在求解离散化的狄
+                                                  拉克方程上。传统�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 拉 (U+62C9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...的工作都花在求解离散化的狄拉
+                                                  克方程上。传统的 K...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 克 (U+514B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...工作都花在求解离散化的狄拉克
+                                                  方程上。传统的 Kryl...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 方 (U+65B9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...作都花在求解离散化的狄拉克方
+                                                  程上。传统的 Krylov ...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 程 (U+7A0B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...都花在求解离散化的狄拉克方程
+                                                  上。传统的 Krylov 求...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 上 (U+4E0A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...花在求解离散化的狄拉克方程上
+                                                  。传统的 Krylov 求解...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 。 (U+3002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...在求解离散化的狄拉克方程上。
+                                                  传统的 Krylov 求解器...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 传 (U+4F20)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...求解离散化的狄拉克方程上。传
+                                                  统的 Krylov 求解器在...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 统 (U+7EDF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...解离散化的狄拉克方程上。传统
+                                                  的 Krylov 求解器在系...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 的 (U+7684)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...离散化的狄拉克方程上。传统的
+                                                   Krylov 求解器在系统...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 求 (U+6C42)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�狄拉克方程上。传统的 Krylov 求
+                                                  解器在系统规模较�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 解 (U+89E3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�拉克方程上。传统的 Krylov 求解
+                                                  器在系统规模较大�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 器 (U+5668)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�克方程上。传统的 Krylov 求解器
+                                                  在系统规模较大和�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 在 (U+5728)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�方程上。传统的 Krylov 求解器在
+                                                  系统规模较大和物�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 系 (U+7CFB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�程上。传统的 Krylov 求解器在系
+                                                  统规模较大和物理�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 统 (U+7EDF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�上。传统的 Krylov 求解器在系统
+                                                  规模较大和物理上�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 规 (U+89C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�。传统的 Krylov 求解器在系统规
+                                                  模较大和物理上有�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 模 (U+6A21)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�传统的 Krylov 求解器在系统规模
+                                                  较大和物理上有趣�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 较 (U+8F83)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�统的 Krylov 求解器在系统规模较
+                                                  大和物理上有趣的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 大 (U+5927)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...�的 Krylov 求解器在系统规模较大
+                                                  和物理上有趣的参�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 和 (U+548C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...� Krylov 求解器在系统规模较大和
+                                                  物理上有趣的参数�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 物 (U+7269)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...rylov 求解器在系统规模较大和物
+                                                  理上有趣的参数区�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 理 (U+7406)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...ov 求解器在系统规模较大和物理
+                                                  上有趣的参数区域�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 上 (U+4E0A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...求解器在系统规模较大和物理上
+                                                  有趣的参数区域时�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 有 (U+6709)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...解器在系统规模较大和物理上有
+                                                  趣的参数区域时会�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 趣 (U+8DA3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...器在系统规模较大和物理上有趣
+                                                  的参数区域时会表�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 的 (U+7684)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...在系统规模较大和物理上有趣的
+                                                  参数区域时会表现�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 参 (U+53C2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...系统规模较大和物理上有趣的参
+                                                  数区域时会表现出�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 数 (U+6570)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...统规模较大和物理上有趣的参数
+                                                  区域时会表现出显�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 区 (U+533A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...规模较大和物理上有趣的参数区
+                                                  域时会表现出显著�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 域 (U+57DF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...模较大和物理上有趣的参数区域
+                                                  时会表现出显著的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 时 (U+65F6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...较大和物理上有趣的参数区域时
+                                                  会表现出显著的减�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 会 (U+4F1A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...大和物理上有趣的参数区域时会
+                                                  表现出显著的减速�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 表 (U+8868)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...和物理上有趣的参数区域时会表
+                                                  现出显著的减速。�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 现 (U+73B0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...物理上有趣的参数区域时会表现
+                                                  出显著的减速。我�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 出 (U+51FA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...理上有趣的参数区域时会表现出
+                                                  显著的减速。我们�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 显 (U+663E)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...上有趣的参数区域时会表现出显
+                                                  著的减速。我们提�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 著 (U+8457)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...有趣的参数区域时会表现出显著
+                                                  的减速。我们提出�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 的 (U+7684)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...趣的参数区域时会表现出显著的
+                                                  减速。我们提出了�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 减 (U+51CF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...的参数区域时会表现出显著的减
+                                                  速。我们提出了一�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 速 (U+901F)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...参数区域时会表现出显著的减速
+                                                  。我们提出了一种�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 。 (U+3002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...数区域时会表现出显著的减速。
+                                                  我们提出了一种域�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 我 (U+6211)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...区域时会表现出显著的减速。我
+                                                  们提出了一种域分�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 们 (U+4EEC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...域时会表现出显著的减速。我们
+                                                  提出了一种域分解�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 提 (U+63D0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...时会表现出显著的减速。我们提
+                                                  出了一种域分解自�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 出 (U+51FA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...会表现出显著的减速。我们提出
+                                                  了一种域分解自适�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 了 (U+4E86)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...表现出显著的减速。我们提出了
+                                                  一种域分解自适应�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 一 (U+4E00)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...现出显著的减速。我们提出了一
+                                                  种域分解自适应代�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 种 (U+79CD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...出显著的减速。我们提出了一种
+                                                  域分解自适应代数�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 域 (U+57DF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...显著的减速。我们提出了一种域
+                                                  分解自适应代数多�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 分 (U+5206)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...著的减速。我们提出了一种域分
+                                                  解自适应代数多重�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 解 (U+89E3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...的减速。我们提出了一种域分解
+                                                  自适应代数多重网�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 自 (U+81EA)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...减速。我们提出了一种域分解自
+                                                  适应代数多重网格�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 适 (U+9002)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...速。我们提出了一种域分解自适
+                                                  应代数多重网格法�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 应 (U+5E94)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...。我们提出了一种域分解自适应
+                                                  代数多重网格法，�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 代 (U+4EE3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...我们提出了一种域分解自适应代
+                                                  数多重网格法，将�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 数 (U+6570)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...们提出了一种域分解自适应代数
+                                                  多重网格法，将其�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 多 (U+591A)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...提出了一种域分解自适应代数多
+                                                  重网格法，将其用�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 重 (U+91CD)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...出了一种域分解自适应代数多重
+                                                  网格法，将其用作�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 网 (U+7F51)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...了一种域分解自适应代数多重网
+                                                  格法，将其用作预�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 格 (U+683C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...一种域分解自适应代数多重网格
+                                                  法，将其用作预处�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 法 (U+6CD5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...种域分解自适应代数多重网格法
+                                                  ，将其用作预处理�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character ， (U+FF0C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...域分解自适应代数多重网格法，
+                                                  将其用作预处理器�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 将 (U+5C06)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...分解自适应代数多重网格法，将
+                                                  其用作预处理器来�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 其 (U+5176)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...解自适应代数多重网格法，将其
+                                                  用作预处理器来求�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 用 (U+7528)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...自适应代数多重网格法，将其用
+                                                  作预处理器来求解�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 作 (U+4F5C)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...适应代数多重网格法，将其用作
+                                                  预处理器来求解狄�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 预 (U+9884)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...应代数多重网格法，将其用作预
+                                                  处理器来求解狄拉�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 处 (U+5904)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...代数多重网格法，将其用作预处
+                                                  理器来求解狄拉克�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 理 (U+7406)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...数多重网格法，将其用作预处理
+                                                  器来求解狄拉克方�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 器 (U+5668)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...多重网格法，将其用作预处理器
+                                                  来求解狄拉克方程�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 来 (U+6765)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...重网格法，将其用作预处理器来
+                                                  求解狄拉克方程的�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 求 (U+6C42)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...网格法，将其用作预处理器来求
+                                                  解狄拉克方程的“�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 解 (U+89E3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...格法，将其用作预处理器来求解
+                                                  狄拉克方程的“三�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 狄 (U+72C4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...法，将其用作预处理器来求解狄
+                                                  拉克方程的“三叶�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 拉 (U+62C9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...，将其用作预处理器来求解狄拉
+                                                  克方程的“三叶草�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 克 (U+514B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...将其用作预处理器来求解狄拉克
+                                                  方程的“三叶草改�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 方 (U+65B9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...其用作预处理器来求解狄拉克方
+                                                  程的“三叶草改进�...
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50: LaTeX Error: Unicode character 程 (U+7A0B)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 ...用作预处理器来求解狄拉克方程
+                                                  的“三叶草改进”�...
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 14418 strings out of 478287
+ 286938 string characters out of 5849289
+ 552634 words of memory out of 5000000
+ 32349 multiletter control sequences out of 15000+600000
+ 475939 words of font info for 56 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,4n,89p,855b,223s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+/home/zhangxin/draft/multgrid/1303.1377/aAMG4QCD.tex:50:  ==> Fatal error occurred, no output PDF file produced!

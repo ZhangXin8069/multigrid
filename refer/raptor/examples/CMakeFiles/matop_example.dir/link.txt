@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wredundant-decls -Wcast-align -Wshadow CMakeFiles/matop_example.dir/matop_example.cpp.o -o matop_example  -Wl,-rpath,/home/zhangxin/draft/multgrid/raptor/lib:/home/zhangxin/openmpi/lib ../lib/libraptor.so /home/zhangxin/openmpi/lib/libmpi.so -lLAPACK_LIB-NOTFOUND -lBLAS_LIB-NOTFOUND 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/benchmark_spmv.dir/benchmark_spmv.o -o benchmark_spmv  -lraptor 

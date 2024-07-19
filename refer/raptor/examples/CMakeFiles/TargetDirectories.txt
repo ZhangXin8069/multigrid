@@ -1,0 +1,3 @@
+/home/zhangxin/draft/multgrid/raptor/examples/CMakeFiles/benchmark_spmv.dir
+/home/zhangxin/draft/multgrid/raptor/examples/CMakeFiles/edit_cache.dir
+/home/zhangxin/draft/multgrid/raptor/examples/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,52 @@
+DOXYFILE_ENCODING      = UTF-8
+PROJECT_NAME           = "RAPtor"
+PROJECT_NUMBER         =
+PROJECT_BRIEF          = "General, high performance algebraic multigrid solver"
+PROJECT_LOGO           = "/home/zhangxin/draft/multgrid/raptor/docs/logo/raptor-logo2-small.png"
+OUTPUT_DIRECTORY       = "/home/zhangxin/draft/multgrid/raptor/build/docs/doxygen"
+ABBREVIATE_BRIEF       = "The $name class" \
+                         "The $name widget" \
+                         "The $name file" \
+                         is \
+                         provides \
+                         specifies \
+                         contains \
+                         represents \
+                         a \
+                         an \
+                         the
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+INPUT                  = "/home/zhangxin/draft/multgrid/raptor/docs/doxygen/raptor_main.dox" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/aggregation/" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/core" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/external" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/gallery" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/krylov" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/multilevel" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/profiling" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/ruge_stuben" \
+                         "/home/zhangxin/draft/multgrid/raptor/raptor/util"
+FILE_PATTERNS          = *.hpp
+VERBATIM_HEADERS       = NO
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+HTMOL_FIL_EXTENSION    = .xhtml
+HTML_EXTRA_STYLESHEET  = /home/zhangxin/draft/multgrid/raptor/docs/doxygen/doxygen-awesome/doxygen-awesome.css
+HTML_EXTRA_FILES       = /home/zhangxin/draft/multgrid/raptor/docs/doxygen/doxygen-awesome/doxygen-awesome-darkmode-toggle.js \
+                         /home/zhangxin/draft/multgrid/raptor/docs/doxygen/doxygen-awesome/doxygen-awesome-fragment-copy-button.js \
+                         /home/zhangxin/draft/multgrid/raptor/docs/doxygen/doxygen-awesome/doxygen-awesome-paragraph-link.js \
+                         /home/zhangxin/draft/multgrid/raptor/docs/doxygen/doxygen-awesome/doxygen-custom/toggle-alternative-theme.js \
+                         /home/zhangxin/draft/multgrid/raptor/docs/doxygen/doxygen-awesome/doxygen-awesome-interactive-toc.js
+HTML_COLORSTYLE        = LIGHT
+HIDE_UNDOC_RELATIONS   = YES
+HAVE_DOT               = YES
+DOT_COMMON_ATTR        = "fontname=Courier,fontsize=10"
+DOT_EDGE_ATTR          = "labelfontname=Courier,labelfontsize=10"
+DOT_NODE_ATTR          = "shape=box,height=0.2,width=0.4"
+DOT_WRAP_THRESHOLD     = 25
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+DOT_IMAGE_FORMAT       = svg
+INTERACTIVE_SVG        = YES

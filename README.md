@@ -14,7 +14,7 @@ multigrid note 0 (game on!!! ! (▰˘◡˘▰))
 
 ## translate
 
-[here](https://gitee.com/zhangxin8069/draft/tree/main/multgrid)
+[here](https://gitee.com/zhangxin8069/multigrid/tree/main/doc)
 
 ## Network resource
 
